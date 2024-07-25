@@ -1,0 +1,142 @@
+
+/* ------------------------------ GENERAL ------------------------------ */
+
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Chettan+2&family=Calligraffitti&display=swap');
+
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #f9c6f4;
+}
+
+/* ------------------------------ HEADER ------------------------------ */
+
+.logo {
+  text-align: center;
+  height: 160px;
+}
+
+.logo h1 {
+  font-family: 'Calligraffitti', cursive;
+  font-weight: 700;
+  font-size: 120px;
+  text-shadow: -15px 5px 20px #ced0d3;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #F9f1cc;
+  text-shadow: 5px 5px 0px #FFB650,
+    10px 10px 0px #FFD662,
+    15px 15px 0px #FF80BF,
+    20px 20px 0px #EF5097,
+    25px 25px 0px #6868AC,
+    30px 30px 0px #90B1E0;
+}
+
+/* ------------------------------ BG IMAGE 1 ------------------------------ */
+
+.bg-img {
+  background: url(../images/backgrounds/wp_4.jpeg) no-repeat fixed center center;
+  height: 97vh;
+  background-size: cover;
+  overflow: hidden;
+}
+
+#wave {
+  position: absolute;
+  margin-top: 350px;
+  left: 0;
+  width: 100%;
+}
+
+#bWave {
+  margin-top: 5%;
+}
+
+/* ------------------------------ WELCOME ------------------------------ */
+
+.welcome {
+  margin-top: 100px;
+  font-family: Arial;
+}
+
+.welcome h1 {
+  font-size: 40px;
+}
+
+.welcome h2 {
+  font-size: 30px;
+  margin-bottom: 10px;
+}
+
+.welcome p {
+  width: 85%;
+  padding: 20px;
+  font-size: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 30px;
+  border: 2px solid #000000;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 20px;
+  background-color: #fff2d8;
+}
+
+/* ------------------------------ BG IMAGE 2 ------------------------------ */
+
+#test {
+  background: url(../images/backgrounds/wp_3.png) no-repeat fixed center center;
+  background-size: cover;
+  height: 125vh;
+}
+
+/* ------------------------------ CARDS ------------------------------ */
+
+#info {
+  padding-top: 5%;
+  background-color: #f0428d;
+  background-image: linear-gradient(to bottom, #f0428d, red,orange,yellow,green,blue,indigo,violet);
+}
+
+.indexTitle, .welcome h2 {
+  margin-top: 20px;
+  border: 2px solid #ffffff;
+  border-radius: 30px;
+  padding: 10px;
+  color: #f0428d;
+  text-shadow: 2px 2px #ffffff;
+  background-color: #68edff;
+  width: 75vh;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  transition: width 2s;
+}
+
+.indexTitle:hover, .welcome h2:hover {
+  width: 1300px;
+}
+
+.card {
+  border-radius: 30px;
+  border: 3px solid #ffffff;
+  margin: 10px;
+  background-color: #EEE2CB;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.card:hover {
+  background-color: #68edff;
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+
+.card img {
+  width: 200px;
+  height: 200px;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
