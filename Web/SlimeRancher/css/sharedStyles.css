@@ -1,45 +1,45 @@
 
 html {
-    scroll-behavior: smooth;
-  }
-  
-  * {
-    padding: 0%;
-    margin: 0%;
-  }
+  scroll-behavior: smooth;
+}
 
-  body {
-    font-family: Arial, sans-serif;
-    text-align: center;
-  }
+* {
+  padding: 0%;
+  margin: 0%;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
 
 /* ------------------------------ NAVIGATION ------------------------------ */
 
 .nav {
-    background-color: #262626;
-    display: flex;
-    justify-content: center;
-    color: #ffffff;
-    position: sticky;
-    top: 0;
-    z-index: 1000;
-  }
-  
-  .nav li {
-    list-style: none;
-  }
-  
-  .nav li a {
-    text-decoration: none;
-    color: #f0428d;
-    padding: 24px;
-    display: block;
-    font-size: 24px;
-    transition-duration: 0.4s;
-    cursor: pointer;
-  }
-  
-  .nav li a:hover {
-    background: #f0428d;
-    color: #262626;
-  }
+  background-color: #262626;
+  display: flex;
+  justify-content: center;
+  color: #ffffff;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+.nav li {
+  list-style: none;
+}
+
+.nav li a {
+  text-decoration: none;
+  color: #f0428d;
+  padding: 24px;
+  display: block;
+  font-size: 24px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.nav li a:hover {
+  background: #f0428d;
+  color: #262626;
+}

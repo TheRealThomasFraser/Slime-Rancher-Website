@@ -94,7 +94,7 @@ body {
 #info {
   padding-top: 5%;
   background-color: #f0428d;
-  background-image: linear-gradient(to bottom, #f0428d, red,orange,yellow,green,blue,indigo,violet);
+  background-image: linear-gradient(to bottom, #f0428d 10%, red,orange,yellow,green,blue,indigo,violet);
 }
 
 .indexTitle, .welcome h2 {

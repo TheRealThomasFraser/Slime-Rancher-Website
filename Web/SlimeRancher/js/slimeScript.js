@@ -12,9 +12,9 @@ document.addEventListener("DOMContentLoaded", () => {
 
 // Function to generate slime cards
 function generateSlimeCards(slimes) {
-    const container = document.getElementById('slimeContainer'); // Get the container by ID
+    const container = document.getElementById('cardContainer');
     
-    slimes.forEach(slime => { // Loop through each slime in the data array
+    slimes.forEach((slime, index) => {
         const card = document.createElement('div');
         card.className = 'card';
         card.innerHTML = `
@@ -23,6 +23,13 @@ function generateSlimeCards(slimes) {
             <p>${slime.description}</p>
         `;
         
-        container.appendChild(card); // Append card to container
+        // Adjust the grid-column for the last two items
+        if (index === slimes.length - 2) {
+            card.style.gridColumn = '2';
+        } else if (index === slimes.length - 1) {
+            card.style.gridColumn = '3';
+        }
+        
+        container.appendChild(card);
     });
 }
