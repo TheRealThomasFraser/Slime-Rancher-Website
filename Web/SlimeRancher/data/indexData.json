@@ -1,92 +1,92 @@
 [
     {
-        "name" : "Slimes",
-        "image" : "images/slimes/PinkSlime.png",
-        "description" :"The most common slime found in the Far, Far Range."
+        "name": "Slimes",
+        "image": "images/slimes/PinkSlime.png",
+        "description": "The most common slime found in the Far, Far Range."
     },
     {
-        "name" : "Largo Slimes",
-        "image" : "images/slimes/LargoSlimes.png",
-        "description" :"The most common slime found in the Far, Far Range."
+        "name": "Largo Slimes",
+        "image": "images/slimes/LargoSlimes.png",
+        "description": "The most common slime found in the Far, Far Range."
     },
     {
-        "name" : "Gordo Slimes",
-        "image" : "images/slimes/GordoSlimes.png",
-        "description" :"The most common slime found in the Far, Far Range."
+        "name": "Gordo Slimes",
+        "image": "images/slimes/GordoSlimes.png",
+        "description": "The most common slime found in the Far, Far Range."
     },
     {
-        "name" : "Beatrix",
-        "image" : "images/characters/Beatrix.png",
-        "description" :"The most common slime found in the Far, Far Range."
+        "name": "Beatrix",
+        "image": "images/characters/Beatrix.png",
+        "description": "The most common slime found in the Far, Far Range."
     },
     {
-        "name" : "Ogden",
-        "image" : "images/characters/Ogden.png",
-        "description" :"The most common slime found in the Far, Far Range."
+        "name": "Ogden",
+        "image": "images/characters/Ogden.png",
+        "description": "The most common slime found in the Far, Far Range."
     },
     {
-        "name" : "More",
-        "image" : "images/q_mark.png",
-        "description" :"The most common slime found in the Far, Far Range."
+        "name": "More",
+        "image": "images/q_mark.png",
+        "description": "The most common slime found in the Far, Far Range."
     },
     {
-        "name" : "Pomegranite",
-        "image" : "images/food/Pomegranite.png",
-        "description" :"The most common slime found in the Far, Far Range."
+        "name": "Pomegranite",
+        "image": "images/food/Pomegranite.png",
+        "description": "The most common slime found in the Far, Far Range."
     },
     {
-        "name" : "Sea Hen",
-        "image" : "images/food/SeaHen.png",
-        "description" :"The most common slime found in the Far, Far Range."
+        "name": "Sea Hen",
+        "image": "images/food/SeaHen.png",
+        "description": "The most common slime found in the Far, Far Range."
     },
     {
-        "name" : "More",
-        "image" : "images/food/Fruits.png",
-        "description" :"The most common slime found in the Far, Far Range."
+        "name": "More",
+        "image": "images/food/Fruits.png",
+        "description": "The most common slime found in the Far, Far Range."
     },
     {
-        "name" : "The Conservatory",
-        "image" : "images/locations/Conservatory.png",
-        "description" :"The most common slime found in the Far, Far Range."
+        "name": "The Conservatory",
+        "image": "images/locations/Conservatory.png",
+        "description": "The most common slime found in the Far, Far Range."
     },
     {
-        "name" : "The Tidepools",
-        "image" : "images/locations/Tidepools.png",
-        "description" :"The most common slime found in the Far, Far Range."
+        "name": "The Tidepools",
+        "image": "images/locations/Tidepools.png",
+        "description": "The most common slime found in the Far, Far Range."
     },
     {
-        "name" : "More",
-        "image" : "images/locations/Digsite.png",
-        "description" :"The most common slime found in the Far, Far Range."
+        "name": "More",
+        "image": "images/locations/Digsite.png",
+        "description": "The most common slime found in the Far, Far Range."
     },
     {
-        "name" : "Full Moon",
-        "image" : "images/toys/FullMoon.png",
-        "description" :"The most common slime found in the Far, Far Range."
+        "name": "Full Moon",
+        "image": "images/toys/FullMoon.png",
+        "description": "The most common slime found in the Far, Far Range."
     },
     {
-        "name" : "Pufferfish",
-        "image" : "images/toys/Pufferfish.png",
-        "description" :"The most common slime found in the Far, Far Range."
+        "name": "Pufferfish",
+        "image": "images/toys/Pufferfish.png",
+        "description": "The most common slime found in the Far, Far Range."
     },
     {
-        "name" : "More",
-        "image" : "images/toys/Toys.png",
-        "description" :"The most common slime found in the Far, Far Range."
+        "name": "More",
+        "image": "images/toys/Toys.png",
+        "description": "The most common slime found in the Far, Far Range."
     },
     {
-        "name" : "Pollen",
-        "image" : "images/weather/Pollen.png",
-        "description" :"The most common slime found in the Far, Far Range."
+        "name": "Pollen",
+        "image": "images/weather/Pollen.png",
+        "description": "The most common slime found in the Far, Far Range."
     },
     {
-        "name" : "Slimefall",
-        "image" : "images/weather/SlimeRain.png",
-        "description" :"The most common slime found in the Far, Far Range."
+        "name": "Slimefall",
+        "image": "images/weather/SlimeRain.png",
+        "description": "The most common slime found in the Far, Far Range."
     },
     {
-        "name" : "More",
-        "image" : "images/weather/Home.png",
-        "description" :"The most common slime found in the Far, Far Range."
+        "name": "More",
+        "image": "images/weather/Home.png",
+        "description": "The most common slime found in the Far, Far Range."
     }
 ]

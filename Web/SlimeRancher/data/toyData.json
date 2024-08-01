@@ -1,0 +1,67 @@
+[
+    {
+        "name": "Beach Ball",
+        "image": "images/slimes/PinkSlime.png",
+        "description": "The most common slime found in the Far, Far Range."
+    },
+    {
+        "name": "Bomb Ball",
+        "image": "images/slimes/PinkSlime.png",
+        "description": "The most common slime found in the Far, Far Range."
+    },
+    {
+        "name": "Bouncy Ball",
+        "image": "images/slimes/PinkSlime.png",
+        "description": "The most common slime found in the Far, Far Range."
+    },
+    {
+        "name": "Full Moon Ball",
+        "image": "images/slimes/PinkSlime.png",
+        "description": "The most common slime found in the Far, Far Range."
+    },
+    {
+        "name": "Glo Glo Foxifur",
+        "image": "images/slimes/PinkSlime.png",
+        "description": "The most common slime found in the Far, Far Range."
+    },
+    {
+        "name": "Glo Glo Froggo",
+        "image": "images/slimes/PinkSlime.png",
+        "description": "The most common slime found in the Far, Far Range."
+    },
+    {
+        "name": "Glo Glo Drakey",
+        "image": "images/slimes/PinkSlime.png",
+        "description": "The most common slime found in the Far, Far Range."
+    },
+    {
+        "name": "Glo Glo Penguino",
+        "image": "images/slimes/PinkSlime.png",
+        "description": "The most common slime found in the Far, Far Range."
+    },
+    {
+        "name": "Glowbug",
+        "image": "images/slimes/PinkSlime.png",
+        "description": "The most common slime found in the Far, Far Range."
+    },
+    {
+        "name": "Plushie Puffer Fish",
+        "image": "images/slimes/PinkSlime.png",
+        "description": "The most common slime found in the Far, Far Range."
+    },
+    {
+        "name": "Rubber Ducky",
+        "image": "images/slimes/PinkSlime.png",
+        "description": "The most common slime found in the Far, Far Range."
+    },
+    {
+        "name": "Trashcan",
+        "image": "images/slimes/PinkSlime.png",
+        "description": "The most common slime found in the Far, Far Range."
+    },
+    {
+        "name": "Yarnball",
+        "image": "images/slimes/PinkSlime.png",
+        "description": "The most common slime found in the Far, Far Range."
+    }
+]

@@ -1,0 +1,117 @@
+[
+    {
+        "name": "Briar Chickadoo",
+        "image": "images/slimes/PinkSlime.png",
+        "description": "The most common slime found in the Far, Far Range."
+    },
+    {
+        "name": "Briar Hen",
+        "image": "images/slimes/PinkSlime.png",
+        "description": "The most common slime found in the Far, Far Range."
+    },
+    {
+        "name": "Carrot",
+        "image": "images/slimes/PinkSlime.png",
+        "description": "The most common slime found in the Far, Far Range."
+    },
+    {
+        "name": "Chickadoo",
+        "image": "images/slimes/PinkSlime.png",
+        "description": "The most common slime found in the Far, Far Range."
+    },
+    {
+        "name": "Cuberry",
+        "image": "images/slimes/PinkSlime.png",
+        "description": "The most common slime found in the Far, Far Range."
+    },
+    {
+        "name": "Elder Hen",
+        "image": "images/slimes/PinkSlime.png",
+        "description": "The most common slime found in the Far, Far Range."
+    },
+    {
+        "name": "Elder Roostroo",
+        "image": "images/slimes/PinkSlime.png",
+        "description": "The most common slime found in the Far, Far Range."
+    },
+    {
+        "name": "Heart Beet",
+        "image": "images/slimes/PinkSlime.png",
+        "description": "The most common slime found in the Far, Far Range."
+    },
+    {
+        "name": "Hen Hen",
+        "image": "images/slimes/PinkSlime.png",
+        "description": "The most common slime found in the Far, Far Range."
+    },
+    {
+        "name": "Mint Mango",
+        "image": "images/slimes/PinkSlime.png",
+        "description": "The most common slime found in the Far, Far Range."
+    },
+    {
+        "name": "Moondew Nectar",
+        "image": "images/slimes/PinkSlime.png",
+        "description": "The most common slime found in the Far, Far Range."
+    },
+    {
+        "name": "Odd Onion",
+        "image": "images/slimes/PinkSlime.png",
+        "description": "The most common slime found in the Far, Far Range."
+    },
+    {
+        "name": "Painted Chickadoo",
+        "image": "images/slimes/PinkSlime.png",
+        "description": "The most common slime found in the Far, Far Range."
+    },
+    {
+        "name": "Painted Hen",
+        "image": "images/slimes/PinkSlime.png",
+        "description": "The most common slime found in the Far, Far Range."
+    },
+    {
+        "name": "Pogofruit",
+        "image": "images/slimes/PinkSlime.png",
+        "description": "The most common slime found in the Far, Far Range."
+    },
+    {
+        "name": "Pomegranite",
+        "image": "images/food/Pomegranite.png",
+        "description": "The most common slime found in the Far, Far Range."
+    },
+    {
+        "name": "Prickle Pear",
+        "image": "images/slimes/PinkSlime.png",
+        "description": "The most common slime found in the Far, Far Range."
+    },
+    {
+        "name": "Roostroo",
+        "image": "images/slimes/PinkSlime.png",
+        "description": "The most common slime found in the Far, Far Range."
+    },
+    {
+        "name": "Sea Hen",
+        "image": "images/food/SeaHen.png",
+        "description": "The most common slime found in the Far, Far Range."
+    },
+    {
+        "name": "Stony Chickadoo",
+        "image": "images/slimes/PinkSlime.png",
+        "description": "The most common slime found in the Far, Far Range."
+    },
+    {
+        "name": "Stony Hen",
+        "image": "images/slimes/PinkSlime.png",
+        "description": "The most common slime found in the Far, Far Range."
+    },
+    {
+        "name": "Thundercluck Hen",
+        "image": "images/slimes/PinkSlime.png",
+        "description": "The most common slime found in the Far, Far Range."
+    },
+    {
+        "name": "Water Lettuce",
+        "image": "images/slimes/PinkSlime.png",
+        "description": "The most common slime found in the Far, Far Range."
+    }
+]

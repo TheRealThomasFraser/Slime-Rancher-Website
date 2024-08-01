@@ -1,112 +1,112 @@
 [
     {
-        "name" : "Angler Slime",
-        "image" : "images/slimes/AnglerSlime.png",
-        "description" :"The most common slime found in the Far, Far Range."
+        "name": "Angler Slime",
+        "image": "images/slimes/AnglerSlime.png",
+        "description": "Inhabit the deepest depths of the Slime Sea."
     },
     {
-        "name" : "Batty Slime",
-        "image" : "images/slimes/BattySlime.png",
-        "description" :"The most common slime found in the Far, Far Range."
+        "name": "Batty Slime",
+        "image": "images/slimes/BattySlime.png",
+        "description": "Love to lurk cold, dark places, like caves."
     },
     {
-        "name" : "Boom Slime",
-        "image" : "images/slimes/BoomSlime.png",
-        "description" :"The most common slime found in the Far, Far Range."
+        "name": "Boom Slime",
+        "image": "images/slimes/BoomSlime.png",
+        "description": "Often heard before they're seen."
     },
     {
-        "name" : "Cotton Slime",
-        "image" : "images/slimes/CottonSlime.png",
-        "description" :"The most common slime found in the Far, Far Range."
+        "name": "Cotton Slime",
+        "image": "images/slimes/CottonSlime.png",
+        "description": "Always looking for an excuse to leap high into the air."
     },
     {
-        "name" : "Crystal Slime",
-        "image" : "images/slimes/CrystalSlime.png",
-        "description" :"The most common slime found in the Far, Far Range."
+        "name": "Crystal Slime",
+        "image": "images/slimes/CrystalSlime.png",
+        "description": "Covered in a crown of shimmering, crystal spikes."
     },
     {
-        "name" : "Dervish Slime",
-        "image" : "images/slimes/DervishSlime.png",
-        "description" :"The most common slime found in the Far, Far Range."
+        "name": "Dervish Slime",
+        "image": "images/slimes/DervishSlime.png",
+        "description": "A swirling, whirling bundle of energy in slimy form."
     },
     {
-        "name" : "Fire Slime",
-        "image" : "images/slimes/FireSlime.png",
-        "description" :"The most common slime found in the Far, Far Range."
+        "name": "Fire Slime",
+        "image": "images/slimes/FireSlime.png",
+        "description": "A rare breed of slime that lives on ash."
     },
     {
-        "name" : "Flutter Slime",
-        "image" : "images/slimes/FlutterSlime.png",
-        "description" :"The most common slime found in the Far, Far Range."
+        "name": "Flutter Slime",
+        "image": "images/slimes/FlutterSlime.png",
+        "description": "Will only eat the sweet but fleeting moondew nectar."
     },
     {
-        "name" : "Gold Slime",
-        "image" : "images/slimes/GoldSlime.png",
-        "description" :"The most common slime found in the Far, Far Range."
+        "name": "Gold Slime",
+        "image": "images/slimes/GoldSlime.png",
+        "description": "The most exclusive and sought after of all slime species."
     },
     {
-        "name" : "Honey Slime",
-        "image" : "images/slimes/HoneySlime.png",
-        "description" :"The most common slime found in the Far, Far Range."
+        "name": "Honey Slime",
+        "image": "images/slimes/HoneySlime.png",
+        "description": "An odd breed of slime composed of a hyper-sweet slime compound."
     },
     {
-        "name" : "Hunter Slime",
-        "image" : "images/slimes/HunterSlime.png",
-        "description" :"The most common slime found in the Far, Far Range."
+        "name": "Hunter Slime",
+        "image": "images/slimes/HunterSlime.png",
+        "description": "The wild cousin of the tabby slime."
     },
     {
-        "name" : "Lucky Slime",
-        "image" : "images/slimes/LuckySlime.png",
-        "description" :"The most common slime found in the Far, Far Range."
+        "name": "Lucky Slime",
+        "image": "images/slimes/LuckySlime.png",
+        "description": "Gobbles up any coin it can find."
     },
     {
-        "name" : "Phosphor Slime",
-        "image" : "images/slimes/PhosphorSlime.png",
-        "description" :"The most common slime found in the Far, Far Range."
+        "name": "Phosphor Slime",
+        "image": "images/slimes/PhosphorSlime.png",
+        "description": "Comes out at night, flying about the moonlit range ."
     },
     {
-        "name" : "Pink Slime",
-        "image" : "images/slimes/PinkSlime.png",
-        "description" :"The most common slime found in the Far, Far Range."
+        "name": "Pink Slime",
+        "image": "images/slimes/PinkSlime.png",
+        "description": "The most common slime found in the Far, Far Range."
     },
     {
-        "name" : "Puddle Slime",
-        "image" : "images/slimes/PuddleSlime.png",
-        "description" :"The most common slime found in the Far, Far Range."
+        "name": "Puddle Slime",
+        "image": "images/slimes/PuddleSlime.png",
+        "description": "A rare species of slime that live in fresh water pools ."
     },
     {
-        "name" : "Ringtail Slime",
-        "image" : "images/slimes/RingtailSlime.png",
-        "description" :"The most common slime found in the Far, Far Range."
+        "name": "Ringtail Slime",
+        "image": "images/slimes/RingtailSlime.png",
+        "description": "Nothing but trouble."
     },
     {
-        "name" : "Rock Slime",
-        "image" : "images/slimes/RockSlime.png",
-        "description" :"The most common slime found in the Far, Far Range."
+        "name": "Rock Slime",
+        "image": "images/slimes/RockSlime.png",
+        "description": "Earned their name from their rocky crown of sharp spikes."
     },
     {
-        "name" : "Saber Slime",
-        "image" : "images/slimes/SaberSlime.png",
-        "description" :"The most common slime found in the Far, Far Range."
+        "name": "Saber Slime",
+        "image": "images/slimes/SaberSlime.png",
+        "description": "Believed to be one of the fiercest predators during the Jellassic Period."
     },
     {
-        "name" : "Tabby Slime",
-        "image" : "images/slimes/TabbySlime.png",
-        "description" :"The most common slime found in the Far, Far Range."
+        "name": "Tabby Slime",
+        "image": "images/slimes/TabbySlime.png",
+        "description": "Share many curious similarities to domesticated house cats of Earth."
     },
     {
-        "name" : "Tangle Slime",
-        "image" : "images/slimes/TangleSlime.png",
-        "description" :"The most common slime found in the Far, Far Range."
+        "name": "Tangle Slime",
+        "image": "images/slimes/TangleSlime.png",
+        "description": "A fearsome predator with a big appetite for tasty meat."
     },
     {
-        "name" : "Tarr Slime",
-        "image" : "images/slimes/TarrSlime.png",
-        "description" :"The most common slime found in the Far, Far Range."
+        "name": "Tarr Slime",
+        "image": "images/slimes/TarrSlime.png",
+        "description": "The tarr seek only to consume and replicate."
     },
     {
-        "name" : "Yolky Slime",
-        "image" : "images/slimes/YolkySlime.png",
-        "description" :"The most common slime found in the Far, Far Range."
+        "name": "Yolky Slime",
+        "image": "images/slimes/YolkySlime.png",
+        "description": "Within their warm, golden center lies an enduring love for chickens."
     }
 ]

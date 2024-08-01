@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Beatrix LeBeau",
+        "image": "images/characters/Beatrix.png",
+        "description": "The most common slime found in the Far, Far Range."
+    },
+    {
+        "name": "B0b",
+        "image": "images/slimes/PinkSlime.png",
+        "description": "The most common slime found in the Far, Far Range."
+    },
+    {
+        "name": "Casey",
+        "image": "images/slimes/PinkSlime.png",
+        "description": "The most common slime found in the Far, Far Range."
+    },
+    {
+        "name": "Hobson Twillgers",
+        "image": "images/slimes/PinkSlime.png",
+        "description": "The most common slime found in the Far, Far Range."
+    },
+    {
+        "name": "Mochi Miles",
+        "image": "images/slimes/PinkSlime.png",
+        "description": "The most common slime found in the Far, Far Range."
+    },
+    {
+        "name": "Ogden Ortiz",
+        "image": "images/characters/Ogden.png",
+        "description": "The most common slime found in the Far, Far Range."
+    },
+    {
+        "name": "Thora West",
+        "image": "images/slimes/PinkSlime.png",
+        "description": "The most common slime found in the Far, Far Range."
+    },
+    {
+        "name": "Viktor Humphries",
+        "image": "images/slimes/PinkSlime.png",
+        "description": "The most common slime found in the Far, Far Range."
+    }
+]

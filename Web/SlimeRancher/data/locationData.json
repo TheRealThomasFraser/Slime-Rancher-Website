@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Ember Valley",
+        "image": "images/slimes/PinkSlime.png",
+        "description": "The most common slime found in the Far, Far Range."
+    },
+    {
+        "name": "Powderfall Bluffs",
+        "image": "images/slimes/PinkSlime.png",
+        "description": "The most common slime found in the Far, Far Range."
+    },
+    {
+        "name": "Starlight Strand",
+        "image": "images/slimes/PinkSlime.png",
+        "description": "The most common slime found in the Far, Far Range."
+    },
+    {
+        "name": "The Conservatory",
+        "image": "images/slimes/PinkSlime.png",
+        "description": "The most common slime found in the Far, Far Range."
+    },
+    {
+        "name": "The Rainbow Fields",
+        "image": "images/slimes/PinkSlime.png",
+        "description": "The most common slime found in the Far, Far Range."
+    },
+    {
+        "name": "The Slime Sea",
+        "image": "images/slimes/PinkSlime.png",
+        "description": "The most common slime found in the Far, Far Range."
+    }
+]

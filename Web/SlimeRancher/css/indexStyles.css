@@ -1,4 +1,3 @@
-
 /* ------------------------------ GENERAL ------------------------------ */
 
 @import url('https://fonts.googleapis.com/css2?family=Baloo+Chettan+2&family=Calligraffitti&display=swap');
@@ -83,7 +82,7 @@ body {
 
 /* ------------------------------ BG IMAGE 2 ------------------------------ */
 
-#test {
+#waves {
   background: url(../images/backgrounds/wp_3.png) no-repeat fixed center center;
   background-size: cover;
   height: 125vh;
@@ -94,10 +93,11 @@ body {
 #info {
   padding-top: 5%;
   background-color: #f0428d;
-  background-image: linear-gradient(to bottom, #f0428d 10%, red,orange,yellow,green,blue,indigo,violet);
+  background-image: linear-gradient(to bottom, #f0428d 10%, red, orange, yellow, green, blue, indigo, violet);
 }
 
-.indexTitle, .welcome h2 {
+.indexTitle,
+.welcome h2 {
   margin-top: 20px;
   border: 2px solid #ffffff;
   border-radius: 30px;
@@ -112,7 +112,8 @@ body {
   transition: width 2s;
 }
 
-.indexTitle:hover, .welcome h2:hover {
+.indexTitle:hover,
+.welcome h2:hover {
   width: 1300px;
 }
 

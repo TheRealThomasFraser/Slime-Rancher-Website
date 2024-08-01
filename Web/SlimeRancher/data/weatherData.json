@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Cyclone",
+        "image": "images/slimes/PinkSlime.png",
+        "description": "The most common slime found in the Far, Far Range."
+    },
+    {
+        "name": "Lightning",
+        "image": "images/slimes/PinkSlime.png",
+        "description": "The most common slime found in the Far, Far Range."
+    },
+    {
+        "name": "Pollen",
+        "image": "images/slimes/PinkSlime.png",
+        "description": "The most common slime found in the Far, Far Range."
+    },
+    {
+        "name": "Rain",
+        "image": "images/slimes/PinkSlime.png",
+        "description": "The most common slime found in the Far, Far Range."
+    },
+    {
+        "name": "Slimefall",
+        "image": "images/slimes/PinkSlime.png",
+        "description": "The most common slime found in the Far, Far Range."
+    },
+    {
+        "name": "Snow",
+        "image": "images/slimes/PinkSlime.png",
+        "description": "The most common slime found in the Far, Far Range."
+    },
+    {
+        "name": "Thunder",
+        "image": "images/slimes/PinkSlime.png",
+        "description": "The most common slime found in the Far, Far Range."
+    },
+    {
+        "name": "Vine Tangle",
+        "image": "images/slimes/PinkSlime.png",
+        "description": "The most common slime found in the Far, Far Range."
+    },
+    {
+        "name": "Wind",
+        "image": "images/slimes/PinkSlime.png",
+        "description": "The most common slime found in the Far, Far Range."
+    }
+]
